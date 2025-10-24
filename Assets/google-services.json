@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "136748839701",
+    "firebase_url": "https://ragdolldismounting.firebaseio.com",
+    "project_id": "ragdolldismounting",
+    "storage_bucket": "ragdolldismounting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136748839701:android:543f6269b611f6a9e3ef1c",
+        "android_client_info": {
+          "package_name": "com.spider.stickman.ragdoll.dismounting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136748839701-o2tnak9glqbjm07r8ul7m38u0ihl9s08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiq-rwFXthJD-wkIvO7v8HTDk1jekKWRY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136748839701-o2tnak9glqbjm07r8ul7m38u0ihl9s08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

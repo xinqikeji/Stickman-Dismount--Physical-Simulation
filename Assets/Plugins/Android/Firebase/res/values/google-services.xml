@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://ragdolldismounting.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">136748839701</string>
+  <string name="google_storage_bucket" translatable="false">ragdolldismounting.appspot.com</string>
+  <string name="project_id" translatable="false">ragdolldismounting</string>
+  <string name="google_api_key" translatable="false">AIzaSyDiq-rwFXthJD-wkIvO7v8HTDk1jekKWRY</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDiq-rwFXthJD-wkIvO7v8HTDk1jekKWRY</string>
+  <string name="google_app_id" translatable="false">1:136748839701:android:543f6269b611f6a9e3ef1c</string>
+  <string name="default_web_client_id" translatable="false">136748839701-o2tnak9glqbjm07r8ul7m38u0ihl9s08.apps.googleusercontent.com</string>
+</resources>

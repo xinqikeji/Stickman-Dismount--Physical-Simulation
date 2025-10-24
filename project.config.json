@@ -1,0 +1,23 @@
+{
+    "appid": "ttdef7a84a41ff3cfb07",
+    "projectname": "彻底击垮我",
+    "unity": {
+        "build": {
+            "webgl": "D:\\WBGL\\webgl_package-20250723_135437.zip",
+            "native": {
+                "il2cpp": "",
+                "apk": "",
+                "fullApk": ""
+            },
+            "instantGame": ""
+        },
+        "publishType": "2",
+        "starkSdkVersion": "Without StarkSDK",
+        "unityToolsVersion": "",
+        "unityEngineVersion": "2021.3.14f1c1",
+        "arch": "both"
+    },
+    "setting": {
+        "urlCheck": true
+    }
+}

@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{04AEF080-C33C-399E-9C6C-84D119C23BFF}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Plugins/Android/GoogleMobileAdsPlugin/AndroidManifest.xml">
+    <Files>
+      <File FileName="Assets/Game_Scripts/HomeScripts/HomeScripts.cs" Line="15" Column="2" />
+      <File FileName="Assets/Game_Scripts/MainSripts/GUI/GUIManager.cs" Line="362" Column="27" />
+      <File FileName="Assets/Game_Scripts/DataScripts/StartManager.cs" Line="49" Column="31" />
+      <File FileName="Assets/Game_Scripts/RewardTimeControl/FreeCoinRewardUI.cs" Line="52" Column="87" />
+      <File FileName="Assets/Game_Scripts/DataScripts/ScoreEndGame.cs" Line="92" Column="53" />
+      <File FileName="Assets/Game_Scripts/ServicePluginScripts/Purchaser.cs" Line="220" Column="25" />
+      <File FileName="Assets/init.cs" Line="11" Column="13" />
+      <File FileName="Assets/Game_Scripts/RewardTimeControl/DailyRewardController.cs" Line="1" Column="1" />
+      <File FileName="Assets/Game_Scripts/DataScripts/DataManager.cs" Line="156" Column="14" />
+      <File FileName="Assets/Plugins/Android/GoogleMobileAdsPlugin/AndroidManifest.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

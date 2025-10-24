@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|D:\\Unity Project\\Stickman Dismount- Physical Simulation\\assets\\ziti\\sdktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\ziti\\sdktest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|d:\\unity project\\stickman dismount- physical simulation\\assets\\game_scripts\\datascripts\\startmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\game_scripts\\datascripts\\startmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|D:\\Unity Project\\Stickman Dismount- Physical Simulation\\assets\\game_scripts\\servicepluginscripts\\purchaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\game_scripts\\servicepluginscripts\\purchaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|D:\\Unity Project\\Stickman Dismount- Physical Simulation\\assets\\ziti\\splash2025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\ziti\\splash2025.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|D:\\Unity Project\\Stickman Dismount- Physical Simulation\\assets\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|D:\\Unity Project\\Stickman Dismount- Physical Simulation\\assets\\ziti\\interstitialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\ziti\\interstitialmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|D:\\Unity Project\\Stickman Dismount- Physical Simulation\\assets\\ziti\\cebianlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\ziti\\cebianlan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|D:\\Unity Project\\Stickman Dismount- Physical Simulation\\assets\\ziti\\bytegameadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\ziti\\bytegameadmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|D:\\Unity Project\\Stickman Dismount- Physical Simulation\\assets\\game_scripts\\servicepluginscripts\\iapshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\game_scripts\\servicepluginscripts\\iapshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|D:\\Unity Project\\Stickman Dismount- Physical Simulation\\assets\\game_scripts\\mainsripts\\gui\\guimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\game_scripts\\mainsripts\\gui\\guimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|D:\\Unity Project\\Stickman Dismount- Physical Simulation\\assets\\game_scripts\\datascripts\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\game_scripts\\datascripts\\coinmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|D:\\Unity Project\\Stickman Dismount- Physical Simulation\\assets\\game_scripts\\datascripts\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{04AEF080-C33C-399E-9C6C-84D119C23BFF}|Assembly-CSharp.csproj|solutionrelative:assets\\game_scripts\\datascripts\\datamanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ByteGameAdManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\ZiTi\\ByteGameAdManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ZiTi\\ByteGameAdManager.cs",
+              "ToolTip": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\ZiTi\\ByteGameAdManager.cs",
+              "RelativeToolTip": "Assets\\ZiTi\\ByteGameAdManager.cs",
+              "ViewState": "AgIAABcBAAAAAAAAAAAkwKoBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-22T09:16:49.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\Game_Scripts\\DataScripts\\StartManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_Scripts\\DataScripts\\StartManager.cs",
+              "ToolTip": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\Game_Scripts\\DataScripts\\StartManager.cs",
+              "RelativeToolTip": "Assets\\Game_Scripts\\DataScripts\\StartManager.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAADwv5sAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T03:36:27.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "init.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\init.cs",
+              "RelativeDocumentMoniker": "Assets\\init.cs",
+              "ToolTip": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\init.cs",
+              "RelativeToolTip": "Assets\\init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T10:05:59.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Splash2025.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\ZiTi\\Splash2025.cs",
+              "RelativeDocumentMoniker": "Assets\\ZiTi\\Splash2025.cs",
+              "ToolTip": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\ZiTi\\Splash2025.cs",
+              "RelativeToolTip": "Assets\\ZiTi\\Splash2025.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T08:32:58.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SDKTest.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\ZiTi\\SDKTest.cs",
+              "RelativeDocumentMoniker": "Assets\\ZiTi\\SDKTest.cs",
+              "ToolTip": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\ZiTi\\SDKTest.cs",
+              "RelativeToolTip": "Assets\\ZiTi\\SDKTest.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAwJgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T02:16:16.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Purchaser.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\Game_Scripts\\ServicePluginScripts\\Purchaser.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_Scripts\\ServicePluginScripts\\Purchaser.cs",
+              "ToolTip": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\Game_Scripts\\ServicePluginScripts\\Purchaser.cs",
+              "RelativeToolTip": "Assets\\Game_Scripts\\ServicePluginScripts\\Purchaser.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAIwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:11:00.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "iapShow.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\Game_Scripts\\ServicePluginScripts\\iapShow.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_Scripts\\ServicePluginScripts\\iapShow.cs",
+              "ToolTip": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\Game_Scripts\\ServicePluginScripts\\iapShow.cs",
+              "RelativeToolTip": "Assets\\Game_Scripts\\ServicePluginScripts\\iapShow.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAgwFgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T09:52:32.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CoinManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\Game_Scripts\\DataScripts\\CoinManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_Scripts\\DataScripts\\CoinManager.cs",
+              "ToolTip": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\Game_Scripts\\DataScripts\\CoinManager.cs",
+              "RelativeToolTip": "Assets\\Game_Scripts\\DataScripts\\CoinManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T01:35:04.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "cebianlan.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\ZiTi\\cebianlan.cs",
+              "RelativeDocumentMoniker": "Assets\\ZiTi\\cebianlan.cs",
+              "ToolTip": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\ZiTi\\cebianlan.cs",
+              "RelativeToolTip": "Assets\\ZiTi\\cebianlan.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:58:51.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InterstitialManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\ZiTi\\InterstitialManager.cs",
+              "RelativeDocumentMoniker": "Assets\\ZiTi\\InterstitialManager.cs",
+              "ToolTip": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\ZiTi\\InterstitialManager.cs",
+              "RelativeToolTip": "Assets\\ZiTi\\InterstitialManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T06:37:52.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GUIManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\Game_Scripts\\MainSripts\\GUI\\GUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_Scripts\\MainSripts\\GUI\\GUIManager.cs",
+              "ToolTip": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\Game_Scripts\\MainSripts\\GUI\\GUIManager.cs",
+              "RelativeToolTip": "Assets\\Game_Scripts\\MainSripts\\GUI\\GUIManager.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:26:20.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataManager.cs",
+              "DocumentMoniker": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\Game_Scripts\\DataScripts\\DataManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Game_Scripts\\DataScripts\\DataManager.cs",
+              "ToolTip": "D:\\Unity Project\\Stickman Dismount- Physical Simulation\\Assets\\Game_Scripts\\DataScripts\\DataManager.cs",
+              "RelativeToolTip": "Assets\\Game_Scripts\\DataScripts\\DataManager.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAAwKsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T09:35:28.987Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
